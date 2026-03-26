@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
     
 I'm passionate about technology, coding, and open-source.  
 I currently have [`>100'000`](https://github.com/search?q=author%3Ajohnd0e+&type=commits) commits on GitHub.
-Though most of them come from numerous forks of my recent project [**openai-gemini**](/PublicAffairs/openai-gemini), which turned out to be unexpectedly popular :smirk:.  
+Though most of them come from numerous forks of my recent project [**openai-gemini**](https://github.com/PublicAffairs/openai-gemini), which turned out to be unexpectedly popular :smirk:.  
 [![forks](https://img.shields.io/github/forks/PublicAffairs/openai-gemini)](#)
 
 ### 🛠️ Key Contributions to Open Source
